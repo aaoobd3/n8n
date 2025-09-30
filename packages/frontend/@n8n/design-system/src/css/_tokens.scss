@@ -1,8 +1,8 @@
 @use 'sass:math';
 
 @mixin theme {
-	--color-primary-h: var(--h-primary);
-	--color-primary-s: var(--s-primary);
+	--color-primary-h: 275; /* purple */
+	--color-primary-s: 70%;
 	--color-primary-l: 68%;
 
 	// Primary tokens
